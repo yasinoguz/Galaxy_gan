@@ -29,7 +29,7 @@ Bu proje, Derin Öğrenme tabanlı Generative Adversarial Networks (GAN) kullan�
 ---
 
 
-![görsel](Model_images/Model_İmages/image_at_epoch_0001.png)
+![görsel](Model_İmages/image_at_epoch_0001.png)
 
 
 
