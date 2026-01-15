@@ -28,3 +28,9 @@ Bu proje, Derin Öğrenme tabanlı Generative Adversarial Networks (GAN) kullan�
 | `Generat_Galaxies_using_Gan.py`     | GAN eğitimini başlatan ana dosya. Generator ve Discriminator yapıları, eğitim fonksiyonları ve görsel kaydetme işlevlerini içerir. |
 ---
 
+
+![görsel](Model_images/Model_İmages/image_at_epoch_0001.png)
+
+
+
+
